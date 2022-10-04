@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\bin\Debug\CSDL.mdf
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\bin\Debug\CSDL_log.ldf
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe.config
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\bin\Debug\QLNHANSU.pdb
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frm_PhongBan.resources
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frm_NhanVien.resources
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Main.resources
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Properties.Resources.resources
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe
+C:\Users\asus\source\repos\QLNHANSU\QLNHANSU\obj\Debug\QLNHANSU.pdb
